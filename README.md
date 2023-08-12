@@ -1,2 +1,1 @@
-# PrepCpurse-Henry
-Este es un repositorio de prueba del módulo II de Henry
+Este es un proyecto de prueba de cómo crear un repositorio  y clonarlo desde el GitHub a el computador
